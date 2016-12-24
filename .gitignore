@@ -35,3 +35,21 @@ jspm_packages
 
 # Optional REPL history
 .node_repl_history
+
+# Project files
+.idea/
+
+# Folder view configuration files
+.DS_Store
+Desktop.ini
+
+# Thumbnail cache files
+._*
+Thumbs.db
+
+# Files that might appear on external disks
+.Spotlight-V100
+.Trashes
+
+# Dist
+# dist/

@@ -1,0 +1,16 @@
+{
+  "name": "gd-b2c",
+  "version": "1.0.0",
+  "description": "Mobile client",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "saike <kishkoglot@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+
+  },
+  "devDependencies": {
+
+  }
+}
